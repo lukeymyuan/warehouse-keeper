@@ -1,0 +1,139 @@
+17/4
+installed WindowBuilder and played around 
+
+18/4
+done nothing 
+
+19/4
+done nothing 
+
+20/4
+done nothing 
+
+21/4
+done nothing 
+
+22/4
+tried to read keyput input
+
+23/4
+done nothing 
+
+24/4
+group meeting and lab
+
+25/4
+done nothing
+
+26/4
+done nothing
+
+27/4
+implemented some of the swing example and made background to black
+
+28/4
+done nothing
+
+29/4
+set up github and connected with team repo
+
+30/4
+pair programming with stephen; we made a welcome page and and added box and bricks as label
+
+1/5
+made multiple wall objects based on one image
+arrange walls using a loop 
+
+2/5
+done nothing
+
+3/5
+done nothing
+
+4/5
+done nothing
+
+5/5
+reviewed online swing tutorial on javapoint.com and implemented option pane for exit.
+
+6/5
+done nothing
+
+7/5
+editted and refactored frontend code from Vamsi.
+added panel "panel selection", combo box. 
+mapped "go" button to level 1. 
+changed UI fonts.
+
+8/5
+meeting in the lab and im going to work on backend this week
+
+9/05
+meeting with aimie and redesign everything, drew new uml for backend
+
+10/05
+edited all backend classes player, walls, goal, box now extend token class
+made print char array map working with hard coded object array
+
+11/05
+read map based on different maps defined in txt files 
+
+12/05
+created 2 unix shell files
+
+13/05
+team meeting at uni. redefine and design uml, starting to integrate front end and back end
+continued to work on backend. covered more senerios for different logics
+
+14/05
+debugging with more maps and refactored 500 lines of code in player class....
+
+15/05
+create method to check goal completed to terminate the program
+
+16/05
+integration with front end is done, we create a new github repo for simplicity
+fixed 3 more bugs for backend movement
+- both player and box r on the goal
+- player on the goal not pushing the box
+everything works fine on 10 hardcoded maps
+
+17/05
+done nothing
+
+18/05
+done nothing
+
+19/05
+worked on level selection for 4 hrs but failed LOL git fetch everything ....
+pair programming with stephen to create a restart function which allows us to restart the current level
+
+20/05
+done nothing
+
+21/05
+continue working on level selection and character selection...
+combobox for level selection and radio button for character
+
+22/05
+link character selection page to the game page
+players r allowed to choose 3 characters 
+choosing pictures, photoshop, resize
+
+23/05
+working on multiplayer feature
+to do this, i created a few methods to game window, player class
+
+25/05
+done nothing
+
+25/05
+done nothing
+
+26/06
+fixed bugs in character selection, multiplayer (movement logic)
+helped aimie with file output for algo generator
+edited entire read file logic, map1-6.txt for single player mode, 7-12 for double, 13-20 for algo
+also editted entire uml on my own
+finished up test and edited unix file 
+Submit!
