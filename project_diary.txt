@@ -130,7 +130,7 @@ done nothing
 25/05
 done nothing
 
-26/06
+26/05
 fixed bugs in character selection, multiplayer (movement logic)
 helped aimie with file output for algo generator
 edited entire read file logic, map1-6.txt for single player mode, 7-12 for double, 13-20 for algo
